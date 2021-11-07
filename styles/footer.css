@@ -15,10 +15,10 @@
     padding: 30px 50px;
 }
 
-.footer-links {
-    padding-top: 20px;
-}
-
 .footer-links ul{
     list-style-type: none;
+}
+
+.footer-links ul li{
+    padding-top: 16px;
 }
