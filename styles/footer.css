@@ -1,10 +1,9 @@
-* {
-    padding: 0;
-    margin: 0;
-}
-
 .footer-container{
     background-color: #EBEBEB;
+}
+
+.footer-upper ul li a, .footer-bottom ul li a {
+    color: inherit;
 }
 
 .footer-upper {
@@ -21,6 +20,7 @@
 
 .footer-links ul li{
     padding-top: 16px;
+    font-size: 14px;
 }
 
 .footer-links ul li a {
@@ -31,7 +31,6 @@
 .footer-hr hr{
     width: 85%;
     border-width: 2px;
-    border-radius: 3px;
     margin: auto;
 }
 
@@ -50,6 +49,7 @@
 
 .footer-bottom-links ul li {
     padding: 8px;
+    font-size: 12px;
 }
 
 .footer-bottom-links.left ul li {
