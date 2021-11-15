@@ -30,8 +30,10 @@
 
 .footer-hr hr{
     width: 85%;
-    border-width: 2px;
+    border-width: 1px;/*Changed the value from 2px. Just check and change it if you want*/
     margin: auto;
+    border-right: none;
+    border-left: none;
 }
 
 .footer-bottom {
